@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatic+Student;DS%20|%20Algorithms%20|%20OOP%20;6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-## :sassy_man:  About me
+## :sassy_woman:  About me
 - :school: I am a `Graduated` at Faculty of Computers & Informatics at Aleppo University
 - 🗺️ I am based on Syria 
 - :computer: I am a Full Stack Web Developer
