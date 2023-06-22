@@ -7,7 +7,6 @@
 - :school: I am a `Graduated` at Faculty of Computers & Informatics at Aleppo University
 - 🗺️ I am based on Syria 
 - :computer: I am a Full Stack Web Developer
-- :nerd_face: Always `learning new things`
 
 <br>
 
